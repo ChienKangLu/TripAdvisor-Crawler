@@ -1,6 +1,12 @@
 # TripAdvisor-Crawler
 This crawler is used for accessing the POIs (Point of interest) from TripAdvisor website.
 
+## Develop tools and techniques
++ Python
++ Selenium
++ Chrome webdriver
++ Pycharm
+
 ## Feature
 + Access POI information<br/>
   - name
@@ -22,7 +28,3 @@ This crawler is used for accessing the POIs (Point of interest) from TripAdvisor
   - review
   - ratingDate
 + Save to Mongodb
-
-## Crawler detail
-+ Selenium
-+ Chrome webdriver
